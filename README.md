@@ -11,7 +11,7 @@ Quaisquer sugestões e contribuições são bem-vindas.
 
 # Como usar isso?
 
-* Basta estar clonando a pasta Dasboards para dentro da pasta plugins em: /var/www/html/glpi/plugins
+* Basta estar clonando a pasta Dashboards para dentro da pasta plugins em: /var/www/html/glpi/plugins
 
 ## Instalação completa
 
